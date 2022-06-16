@@ -1,0 +1,152 @@
+body
+{
+    margin:0px;
+    padding: 0px;
+}
+
+/*---------------section1---------------------- */
+
+
+.section1
+{
+    background-color: #293F50;
+    overflow: hidden;
+}
+
+.container1
+{
+    width:60%;
+    margin: auto
+}
+
+
+.container1 ul
+{
+   list-style-type: none;
+    margin:0px;
+    padding:0px;
+}
+
+
+.container1 ul li
+{
+    float: left;
+}
+
+.container1 ul li a
+{
+    padding:15px 10px;
+    display: inline-block;
+    color:white;
+    text-decoration: none;
+    
+    text-transform: uppercase;
+}
+
+
+.container1 .title 
+{
+    width:265px;
+    font-size: 40px;
+    padding:20px;
+   font-family: 'Raleway', sans-serif;
+    color:darkgray;
+    
+}
+
+
+.container1 .left
+{
+    width:40%;
+    float:left;
+}
+
+
+.container1 .right
+{
+    width:60%;
+    float:right;
+}
+
+.container1 .date
+{
+    float: right;
+    font-size:25px;
+    margin-top:30px;
+    color: darkgray;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.container1 .menu
+{
+    float: right;
+}
+
+.container1 .menu a:hover
+{
+    color:darkgray;
+}
+
+
+
+
+/*---------------section2---------------------- */
+
+.section2
+{
+    padding: 30px;
+    background:linear-gradient(#A2D3B0,#E3EACB);
+}
+
+.container2
+{
+    width:60%;
+    margin: auto;
+}
+
+.container2 .p1
+{
+    font-size: 40px;
+    text-align: center;
+    color:palegoldenrod;
+}
+
+.container2 .p2
+{
+    font-size: 20px;
+    text-align: center;
+    color:black;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+
+
+
+/*---------------section3---------------------- */
+
+.container3
+{
+    width:80%;
+    margin: auto;
+}
+
+
+.container3 .left
+{
+    width: 30%;
+    float:left;
+    
+}
+
+.container3 .right
+{
+     width: 70%;
+    float:left;
+    
+}
+
+.container3 .left .p1
+{
+    color:darkgray;
+    font-size: 40px;
+}

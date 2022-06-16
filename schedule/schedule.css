@@ -1,0 +1,279 @@
+body
+{
+    margin:0px;
+    padding: 0px;
+}
+
+/*---------------section1---------------------- */
+
+
+.section1
+{
+    background-color: #293F50;
+    overflow: hidden;
+}
+
+.container1
+{
+    width:60%;
+    margin: auto
+}
+
+
+.container1 ul
+{
+   list-style-type: none;
+    margin:0px;
+    padding:0px;
+}
+
+
+.container1 ul li
+{
+    float: left;
+}
+
+.container1 ul li a
+{
+    padding:15px 10px;
+    display: inline-block;
+    color:white;
+    text-decoration: none;
+    
+    text-transform: uppercase;
+}
+
+
+.container1 .title 
+{
+    width:265px;
+    font-size: 40px;
+    padding:20px;
+   font-family: 'Raleway', sans-serif;
+    color:darkgray;
+    
+}
+
+
+.container1 .left
+{
+    width:40%;
+    float:left;
+}
+
+
+.container1 .right
+{
+    width:60%;
+    float:right;
+}
+
+.container1 .date
+{
+    float: right;
+    font-size:25px;
+    margin-top:30px;
+    color: darkgray;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.container1 .menu
+{
+    float: right;
+}
+
+.container1 .menu a:hover
+{
+    color:darkgray;
+}
+
+
+
+
+/*---------------section2---------------------- */
+
+.section2
+{
+    padding: 30px;
+    background:linear-gradient(#A2D3B0,#E3EACB);
+}
+
+.container2
+{
+    width:60%;
+    margin: auto;
+}
+
+.container2 .p1
+{
+    font-size: 40px;
+    text-align: center;
+    color:palegoldenrod;
+}
+
+.container2 .p2
+{
+    font-size: 20px;
+    text-align: center;
+    color:black;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+
+/*---------------section3---------------------- */
+
+
+.section3
+{
+    padding-top: 30px;
+}
+
+.container3
+{
+    width:60%;
+    margin:auto;
+    
+}
+
+
+
+/* ---------------------step1----------------*/
+
+.step1
+{
+    overflow: hidden;
+}
+.container3 .step1 .p1
+{
+    width:30%;
+    float: left;
+    font-size: 30px;
+    color:dimgray;
+    
+}
+
+.container3 .step1 .p2
+{
+    width:70%;
+    float: left;
+    font-size: 20px;
+    color:dimgray;
+    padding-top: 15px;
+    border-top: 0.8px solid gray;
+    
+}
+
+/* ---------------------step2----------------*/
+
+.step2
+{
+    overflow: hidden;
+}
+.container3 .step2 .p1
+{
+    width:30%;
+    float: left;
+    color:dimgray;
+    font-size: 19px;
+    
+}
+
+.container3 .step2 .p2
+{
+   
+    width:70%;
+    float: left;
+    color:dimgray;
+     font-size: 19px;
+   
+   
+    border-top: 0.8px solid gray;
+    
+}
+
+
+/* ---------------------step3----------------*/
+
+.step3
+{
+    overflow: hidden;
+}
+.container3 .step3 .p1
+{
+    width:30%;
+    float: left;
+    color:dimgray;
+    font-size: 19px;
+    
+}
+
+.container3 .step3 .p2
+{
+   
+    width:35%;
+    
+    float: left;
+    font-size: 15px;
+    color:dimgray;
+     font-size: 19px;
+   
+   
+    border-top: 0.8px solid gray;
+    
+}
+
+.container3 .step3 .p3
+{
+   
+    width:35%;
+    
+    float: left;
+    color:dimgray;
+     font-size: 19px;
+   
+   
+    border-top: 0.8px solid gray;
+    
+}
+
+.container3 .step3 .p2 span
+{
+    color:cadetblue
+}
+
+.container3 .step3 .p3 span
+{
+    color:cadetblue
+}
+
+
+/* ---------------------step4----------------*/
+
+
+.step4
+{
+    overflow: hidden;
+}
+.container3 .step4 .p1
+{
+    width:30%;
+    float: left;
+    font-size: 15px;
+    color:dimgray;
+    font-size: 19px;
+    
+}
+
+.container3 .step4 .p2
+{
+   
+    width:70%;
+    float: left;
+    font-size: 15px;
+    color:dimgray;
+     font-size: 19px;
+   
+   
+    border-top: 0.8px solid gray;
+    
+}

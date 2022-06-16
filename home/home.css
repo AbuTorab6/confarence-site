@@ -1,0 +1,381 @@
+body
+{
+    margin:0px;
+    padding: 0px;
+}
+
+/*---------------section1---------------------- */
+
+
+.section1
+{
+    background-color: #293F50;
+    overflow: hidden;
+}
+
+.container1
+{
+    width:60%;
+    margin: auto
+}
+
+
+.container1 ul
+{
+   list-style-type: none;
+    margin:0px;
+    padding:0px;
+}
+
+
+.container1 ul li
+{
+    float: left;
+}
+
+.container1 ul li a
+{
+    padding:15px 10px;
+    display: inline-block;
+    color:white;
+    text-decoration: none;
+    
+    text-transform: uppercase;
+}
+
+
+.container1 .title 
+{
+    width:265px;
+    font-size: 40px;
+    padding:20px;
+   font-family: 'Raleway', sans-serif;
+    color:darkgray;
+    
+}
+
+
+.container1 .left
+{
+    width:40%;
+    float:left;
+}
+
+
+.container1 .right
+{
+    width:60%;
+    float:right;
+}
+
+.container1 .date
+{
+    float: right;
+    font-size:25px;
+    margin-top:30px;
+    color: darkgray;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.container1 .menu
+{
+    float: right;
+}
+
+.container1 .menu a:hover
+{
+    color:darkgray;
+}
+
+/*---------------section2---------------------- */
+
+.section2
+{
+    overflow: hidden;
+    background-color: #293F50
+}
+
+.container2
+{
+    width:50%;
+    margin:auto; 
+}
+
+.container2 .p1
+{
+    font-size: 35px;
+    text-align: center;
+    color:cadetblue;
+font-family: 'Cormorant Garamond', serif;
+}
+
+.container2 .p2
+{
+    font-size: 23px;
+    text-align: center;
+    color:darkgray;
+font-family: 'Cormorant Garamond', serif;
+}
+
+
+.container2 .p3
+{
+    font-size: 23px;
+    text-align: center;
+    color:floralwhite;
+font-family: 'Cormorant Garamond', serif;
+}
+
+
+.container2 .p4
+{
+    font-size: 30px;
+    text-align: center;
+    color:darkgray;
+ 
+}
+
+.container2 .p4 span
+{
+     border: 1px solid white;
+    border-radius: 9px;
+    padding:10px;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.container2 .p4 span:hover
+{
+     color:antiquewhite;
+}
+
+
+
+
+/*---------------section3---------------------- */
+
+.section3
+{
+    background-color: azure;
+    overflow:hidden;
+    padding-top:60px;
+}
+
+.section3 .container3
+{
+    width:60%;
+    margin: auto;
+}
+
+
+.section3 .container3 .box
+{
+    width:30%;
+    float: left;
+      margin:10px;;
+}
+
+/* -------box-1-----------------*/
+
+.section3 .container3 .box1 .p1
+{
+    font-size: 20px;
+    font-family: 'Source Code Pro', monospace;
+     margin-bottom: 20px;
+    text-align: center;
+    
+}
+
+.section3 .container3 .box1 .img1
+{
+    width:100%;
+    height: 300px;
+    
+    background-image: url('../1.jpg');
+    background-size: cover;
+    border-radius: 5px;
+
+}
+
+.section3 .container3 .box1 .p2
+{
+    font-size: 20px;
+    font-family: 'Source Code Pro', monospace;
+     margin-top: 20px;
+    text-align: center;
+    
+}
+
+.section3 .container3 .box1 .p3
+{
+    font-size:13px; 
+    font-family: 'Source Code Pro', monospace;
+     margin-top: 20px;
+    text-align: center;
+    
+}
+
+
+
+/* -------box-2-----------------*/
+
+
+.section3 .container3 .box2 .p1
+{
+    font-size: 20px;
+    font-family: 'Source Code Pro', monospace;
+     margin-bottom: 20px;
+    text-align: center;
+    
+}
+
+.section3 .container3 .box2 .img2
+{
+    width:100%;
+    height: 300px;
+    
+    background-image: url('../2.jpg');
+    background-size: cover;
+    border-radius: 5px;
+
+}
+
+.section3 .container3 .box2 .p2
+{
+    font-size: 20px;
+    font-family: 'Source Code Pro', monospace;
+     margin-top: 20px;
+    text-align: center;
+    
+}
+
+.section3 .container3 .box2 .p3
+{
+    font-size:13px; 
+    font-family: 'Source Code Pro', monospace;
+     margin-top: 20px;
+    text-align: center;
+    
+}
+
+
+/* -------box-3-----------------*/
+
+
+
+
+.section3 .container3 .box3 .p1
+{
+    font-size: 20px;
+    font-family: 'Source Code Pro', monospace;
+     margin-bottom: 20px;
+    text-align: center;
+    
+}
+
+.section3 .container3 .box3 .img3
+{
+    width:100%;
+    height: 300px;
+    
+    background-image: url('../3.jpg');
+    background-size: cover;
+    border-radius: 5px;
+
+}
+
+.section3 .container3 .box3 .p2
+{
+    font-size: 20px;
+    font-family: 'Source Code Pro', monospace;
+     margin-top: 20px;
+    text-align: center;
+    
+}
+
+.section3 .container3 .box3 .p3
+{
+    font-size:13px; 
+    font-family: 'Source Code Pro', monospace;
+     margin-top: 20px;
+    text-align: center;
+    
+}
+
+
+
+
+/*---------------section4---------------------- */
+
+.section4
+{
+    background-color: #293F50;
+    overflow: hidden;
+    padding-bottom: 50px;
+}
+
+.container4
+{
+    width:60%;
+    margin:auto;
+}
+
+.container4 .left
+{
+    width:30%;
+    float: left;
+}
+
+.container4 .right
+{
+    width:70%;
+    float: left;
+}
+
+.container4 .left .mail
+{
+    color:darkgray;
+    padding-top: 40px;
+    float: left;
+    font-family: 'Source Code Pro', monospace;
+}
+
+
+
+
+
+.container4 ul
+{
+   list-style-type: none;
+    margin:0px;
+    padding:0px;
+}
+
+
+.container4 ul li
+{
+    float: left;
+}
+
+.container4 ul li a
+{
+    padding:10px 10px;
+    display: inline-block;
+    color:white;
+    text-decoration: none;
+    font-family: 'Source Code Pro', monospace;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+
+.container4 .menu
+{
+    float: right;
+    padding-top: 30px;
+}
+
+
+.container4 .menu a:hover
+{
+    color:darkgray;
+}
